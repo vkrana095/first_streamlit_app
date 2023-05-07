@@ -1,2 +1,3 @@
-Import streamlit
+import streamlit
+
 streamlit.title('My Healthier dinner')
