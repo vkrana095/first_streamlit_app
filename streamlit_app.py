@@ -4,7 +4,6 @@ import requests
 import snowflake.connector
 
 streamlit.title('My Healthier dinner')
-
 # streamlit.header('Breakfast Menu') 
 
 # streamlit.text('Omega 3 & Blueberry Oatmeal')
